@@ -1,6 +1,7 @@
 # odin-recipes
 
-The odin-recipes project is comprised of a web-based collection of the following recipes:
+The odin-recipes project is a web-based collection of the following recipes:
+
     * Pad Kee Mao
     * Ranch Chicken Tacos
     * Watermelon Gazpacho
@@ -8,7 +9,8 @@ The odin-recipes project is comprised of a web-based collection of the following
 Technologies Used: Git, HTML
 
 Skills Demonstrated:
-    * Git Utilization
+
+    Git Utilization
         * created directories: 
             $ mkdir [directory]
         * created files: 
@@ -32,11 +34,11 @@ Skills Demonstrated:
         * pushed committed to main branch: 
             $ git push origin main
     
-    * HTML Utilization
+    HTML Utilization
         * Hyperlinks
             <a href="[location of file]">[hyperlink name]</a>
         * Images
-            <img src="[location of image]" alt="[description of image]" height="[height of image]" width="[width of image]">
+            <img src="[location of image]" alt="[description of image]" height="[height]" width="[width]">
         * Ordered Lists
             <ol>
                 <li>[list item name]</li>
